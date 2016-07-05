@@ -3,3 +3,7 @@
 
 #CMake
 CMakeLists.txt
+
+#config files depended of server
+build_and_move_to_storage 
+
